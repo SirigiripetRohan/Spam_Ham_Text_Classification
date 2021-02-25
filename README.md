@@ -1,4 +1,4 @@
-# Spam_Ham_Text_Classification
+# An assignment given to me by a firm on NLP as Spam_Ham_Text_Classification.
 Classifying the real time text into spam or normal messages (text).
 ################################################ SPAM-HAM TEXT CLASSIFICATION##########################################################
 1. Classify the messages in to Ham or Spam.
